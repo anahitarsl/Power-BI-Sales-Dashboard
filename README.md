@@ -6,6 +6,11 @@ This project presents a dynamic and interactive dashboard created with **Power B
 
 The dashboard includes multiple slicers and visualizations to allow users to filter and explore sales data by:
 
+## 📸 Preview
+
+![Dashboard Screenshot](Sales Dashboard-1)
+
+
 - **Product**, **Category**, **Country**, and **Year**
 - Monthly and seasonal trends
 - Top 5 best-selling and most profitable products
@@ -32,4 +37,5 @@ This dashboard is ideal for:
 - Business intelligence reporting
 - Quick insights into product profitability and trends
 - Demonstrating Power BI capabilities in portfolios or interviews
+
 
