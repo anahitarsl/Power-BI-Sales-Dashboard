@@ -6,7 +6,7 @@ This project presents a dynamic and interactive dashboard created with **Power B
 
 The dashboard includes multiple slicers and visualizations to allow users to filter and explore sales data by:
 
-![Dashboard Screenshot](./C:\Users\lotus\Pictures\Sales Dashboard-1.png)
+![Dashboard Screenshot](C:\Users\lotus\Pictures\Sales Dashboard-1.png)
 
 
 
